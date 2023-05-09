@@ -10,6 +10,6 @@ namespace WebApplication1
 
         public string? Summary { get; set; }
         // teste de volta para o visual studio
-        
+        // alteração para merge?
     }
 }
